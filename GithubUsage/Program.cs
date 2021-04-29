@@ -7,6 +7,7 @@ namespace GithubUsage
         static void Main(string[] args)
         {
             Console.WriteLine("Text"); //Commit All
+            Console.WriteLine("Text"); //Commit All and Push
         }
     }
 }
