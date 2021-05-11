@@ -11,6 +11,7 @@ namespace GithubUsage
             Console.WriteLine("Text"); //Commit All
             Console.WriteLine("Text"); //Commit All and Sync
 
+            Console.WriteLine("Text"); //Commit All and Push
 
         }
     }
