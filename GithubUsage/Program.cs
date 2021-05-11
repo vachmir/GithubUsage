@@ -10,7 +10,7 @@ namespace GithubUsage
             Console.WriteLine("Text"); //Commit All and Push
             Console.WriteLine("Text"); //Commit All
             Console.WriteLine("Text"); //Commit All and Sync
-            Console.WriteLine("Text"); //Commit All and Sync
+            Console.WriteLine("Text"); //Commit All and Sync, Brunch of 4 Lines
         }
     }
 }
